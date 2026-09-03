@@ -22,8 +22,6 @@ macOS 14.6 or later.
 brew install --cask anttiak/tap/lofeline
 ```
 
-The cask clears macOS quarantine on install, since the app isn't notarized.
-
 ## Usage
 
 Left click starts and stops playback. Right click (or control-click) opens the
