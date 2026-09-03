@@ -1,6 +1,6 @@
 # LoFeline
 
-<p align="center">
+<p align="left">
   <img src="icon.png" alt="LoFeline" width="180">
 </p>
 
