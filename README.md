@@ -19,10 +19,10 @@ macOS 14.6 or later.
 ## Install
 
 ```sh
-brew install --cask --no-quarantine anttiak/tap/lofeline
+brew install --cask anttiak/tap/lofeline
 ```
 
-`--no-quarantine` is needed because the app isn't notarized.
+The cask clears macOS quarantine on install, since the app isn't notarized.
 
 ## Usage
 
